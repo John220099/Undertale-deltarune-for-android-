@@ -1,2 +1,2 @@
-# Undertale-deltarune-for-android-
-A undertale/deltarune port for android 
+# Undertale-Deltarune-for-android-and-ios
+A undertale/deltarune port for android and ios
